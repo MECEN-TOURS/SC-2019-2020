@@ -1,7 +1,7 @@
 """
 Bibliothèque contenant des fonctions abstraites de manipulation de graphes.
 """
-
+from collections import deque
 
 def transformation_voisinage(sommets, arretes):
     resultat = dict()
@@ -32,6 +32,24 @@ def remonte_arbre(arbre, depart, arrivee):
         noeud_courant = arbre[noeud_courant]
     raise ValueError("Pas de chemin")
     
+def bfs(voisinage, depart, arrivee):
+    """Breadth First Search"""
+    visites = list()
+    vus = deque()
+    vus.append(depart)
+    vus_part = dict()
+    vus_part[depart] = None
+    while vus:
+        noeud_courant = vus.popleft()
+        if not noeud_courant in visites:
+            visites.append(noeud_courant)
+            for voisin in voisinage[noeud_courant]:
+                vus.append(voisin)
+                if not voisin in vus_part:
+                    vus_part[voisin] = noeud_courant
+
+    return remonte_arbre(vus_part, depart, arrivee)
+
 def dfs(voisinage, depart, arrivee):
     """Depth First Search"""
     visites = list()
