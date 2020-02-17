@@ -9,11 +9,12 @@
     - numérique : numpy scipy
     - formel : sympy
 3. Graphe et Ordonnancement
-    - networkx 
+    - networkx
 
 ## Programmation
 
-- bien choisir les noms (variables fonctions etc...)
-- principe DRY (don't repeat yourself)
-- conception modulaire (une fonction a une seule tâche)
-- Principe POO
+- Bien choisir les noms (variables fonctions etc...)
+- Principe DRY (don't repeat yourself)
+- Conception modulaire (une fonction a une seule tâche)
+- Garder au maximum les fonction pures (et les tester) en cas de mutation passer en programmation objet.
+- Garder le code simple, (Kernighan law : debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.)
