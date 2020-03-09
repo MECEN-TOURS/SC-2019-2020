@@ -3,6 +3,8 @@
 Trois villes J, K, L sont alimentées en eau grâce à quatre réserves A, B, C, D. Les réserves journalières disponibles sont de 15 millier de m^3 pour A,B et C et de 10 pour D.
 Le réseau historique (comportant même quelques aqueducs romains) passe par cinq anciens noeuds E, F, G, H, I.
 Voici le tableau des capacités de débits du réseau. La ligne x colonne y est le flux maximal du noeud x vers le noeud y.
+
+
   | A| B| C| D| E| F| G| H| I| J| K| L|
 --|--|--|--|--|--|--|--|--|--|--|--|--|
 A |  |  |  |  | 7|  |  |  |  |  |  |  |
