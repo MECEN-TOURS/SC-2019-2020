@@ -1,5 +1,7 @@
 # Affectations groupes/sujets
 
+Les affectations groupe <-> sujets ont été décidées aléatoirement. Si deux groupes souhaitent échanger leurs sujets ils peuvent envoyer **tous les deux** un mails en ce sens.
+
 - Groupe 1 (ElKawas, Kashala-Ilunga) Sujet 7
 - Groupe 2 (Boussengui, Leger) Sujet 1
 - Groupe 3 (Akdag, Zennaf) Sujet 8
