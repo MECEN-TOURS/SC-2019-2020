@@ -12,5 +12,5 @@
 
 # Commentaires
 
-- L'évaluation consistera en un oral de 15 min puis 5/10 min de questions à une date restant à préciser (fin Mars début Avril suivant dates de stage), on fournira ensuite l'ensemble du code.
+- L'évaluation consistera en une présentation orale  de 15 min (avec un notebook jupyter comme support) puis 5/10 min de questions à une date restant à préciser (fin Mars début Avril suivant dates de stage), on fournira ensuite l'ensemble du code.
 - Les sujets ne sont pas forcément de niveau égal, les exigences de maîtrise du sujet et de clarté de l'exposition ne seront donc pas les mêmes.
