@@ -4,7 +4,7 @@ On désire étudier la capacité du réseau routier reliant les villes **E** à 
 
 Le graphe ci-dessous représente le réseaux ainsi qu'une évaluation du nombres véhicule pouvant parcourir un tronçon par heure (par centaines).
 
-[reseau](reseau.svg)
+![reseau](reseau.svg)
 
 1. Quel est le débit horaire maximal de véhicules reliant **E** à **S**?
 2. En fait chaque ville admet également un flux maximal de véhicule pouvant la traverser
