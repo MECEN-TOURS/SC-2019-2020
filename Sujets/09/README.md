@@ -8,6 +8,7 @@ Crée une fonction python `resolution` prenant en entrée une chaine de caractè
 la fonction resolution renverra la chaine de caractère avec le chemin le plus court reliant l'entrée et la sortie en passant par des cases vides (on ne peut avancer que de haut en bas et gauche à droite) ces cases seront remplis par des "x".
 
 Ainsi si l'entrée est
+```
 --------------- ----------------
 ooooooooooooooo oooooooooooooooo
 ooooooooooooooo   oooooooooooooo
@@ -30,10 +31,12 @@ ooooooooo oooo ooooooo ooooooooo
 ooooooooo      ooooooo ooooooooo
 oooooooooooooooooooooo ooooooooo
 ---------------------- ---------
+```
 
 
 la sortie sera
 
+```
 ---------------x----------------
 oooooooooooooooxoooooooooooooooo
 oooooooooooooooxxxoooooooooooooo
@@ -56,3 +59,4 @@ ooooooooo oooo oooooooxooooooooo
 ooooooooo      oooooooxooooooooo
 ooooooooooooooooooooooxooooooooo
 ----------------------x---------
+```
