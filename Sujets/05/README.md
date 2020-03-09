@@ -5,7 +5,7 @@ Un producteur de cinéma est confronté au problème du planning de son prochain
 
 |Tâche | Nature                    | Durée (Jours)| Prérequis (au plus tôt)|
 |------|---------------------------|--------------|------------------------|
-|  A   | \'Ecriture du scénario    | 30           | -                      |
+|  A   | Ecriture du scénario      | 30           | -                      |
 |  B   | Casting                   | 12           | fin A + 15j            |
 |  C   | Choix du lieu de tournage | 8            | fin A + 20j            |
 |  D   | Découpage technique       | 4            | A et C finies          |
