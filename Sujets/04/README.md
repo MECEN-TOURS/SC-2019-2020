@@ -5,20 +5,20 @@ Le réseau historique (comportant même quelques aqueducs romains) passe par cin
 Voici le tableau des capacités de débits du réseau. La ligne x colonne y est le flux maximal du noeud x vers le noeud y.
 
 
-  | A| B| C| D| E| F| G| H| I| J| K| L|
---|--|--|--|--|--|--|--|--|--|--|--|--|
-A |  |  |  |  | 7|  |  |  |  |  |  |  |
-B |  |  |  |  |  |10| 7|  |  |  |  |  |
- C| 5|  |  |  |  | 5|  |  |  |  |  |  |
- D|  |  |  |  |  |  |10|  |  |  |  |  |
- E|  |  |  |  |  | 5|  | 4|15|  |  |  |
- F|  |  |  |  |  |  | 5|  |15|  |  |  |
- G|  |  |  |  |  |  |  |  |15|  |  |  |
- H|  |  |  |  |  |  |  |  |  | 7|  |  |
- I|  |  |  |  |  |  |  |  |  |  |30|4 |
- J|  |  |  |  |  |  |  |  |  |  |  |  |
- K|  |  |  |  |  |  |  |  |  |10|  |  |
- L|  |  |  |  |  |  |  |  |  |  |  |  |
+  | A| B| C| D| E| F| G| H| I| J| K| L|  
+--|--|--|--|--|--|--|--|--|--|--|--|--|  
+A |  |  |  |  | 7|  |  |  |  |  |  |  |  
+B |  |  |  |  |  |10| 7|  |  |  |  |  |  
+ C| 5|  |  |  |  | 5|  |  |  |  |  |  |  
+ D|  |  |  |  |  |  |10|  |  |  |  |  |  
+ E|  |  |  |  |  | 5|  | 4|15|  |  |  |  
+ F|  |  |  |  |  |  | 5|  |15|  |  |  |  
+ G|  |  |  |  |  |  |  |  |15|  |  |  |  
+ H|  |  |  |  |  |  |  |  |  | 7|  |  |  
+ I|  |  |  |  |  |  |  |  |  |  |30|4 |  
+ J|  |  |  |  |  |  |  |  |  |  |  |  |  
+ K|  |  |  |  |  |  |  |  |  |10|  |  |  
+ L|  |  |  |  |  |  |  |  |  |  |  |  |  
   
 Ces trois villes en pleine évolution désirent améliorer keur réseau d'alimentation afin de satisfaire des besoins futurs. Les prévisions des demandes journalières maximales sont de 15 milliers de m^3 pour les villes J et L et de 20 milliers de m^3 pour la ville K.
 -  Dessiner le graphe de ce réseau. Déterminer la valeur du flot maximal pouvant passer dans le réseau actuel.
