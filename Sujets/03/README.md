@@ -20,3 +20,4 @@ Voici les routes existantes entre les 16 emplacement de la ville considérés pa
 1. Quel est le plus court chemin de 1 (compagnie de taxi) vers 16 (aéroport) ?
 2. Donner les plus courts chemin entre tous les points de la ville.
 3. Etudier l'impact d'un ralentissement ou d'une fluidification sur la route 9-13 (on étudiera l'impact dans les deux sens pour diverses valeurs du ralentissement).
+4. Modifier le modèle pour prendre en compte le fait que les emplacements 3 5 7 9  et 11 sont en travaux et que tout passage par un de ces lieux ajoute 1min au trajet. (On pourra chercher à aménager le graphe)
