@@ -1,6 +1,6 @@
 # Sujet 07 : transport optimal
 
-Le fichier `transport.csv` contient les données suivantes
+Le fichier `transport.csv` contient les données suivantes (les séparateurs y sont des virgules)
 
 || produit requis client 1|  produit requis client 2|...| produit requis client M|
 |--|--|--|--|--|
