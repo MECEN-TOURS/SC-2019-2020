@@ -25,4 +25,4 @@ Voici le tableau des tâches pour construire une maison avec leur durée et les 
 |S. Aménagements extérieurs | 3 | R |
 
 1. Construire un planning optimal.
-2.
+2. Il s'avère que pour des raisons logistiques les livraisons ne peuvent être faites simultanément, comment le planning optimal doit-il être modifié?
