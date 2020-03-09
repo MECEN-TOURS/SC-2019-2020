@@ -14,7 +14,7 @@ Voici les routes existantes entre les 16 emplacement de la ville considérés pa
 - 10 - 9 (6 mins) 10 -13 (5 mins) 10-14 (1 min)
 - 11-14 (2 mins)
 - 12 - 16 (9 mins)
--\item 13 - 12 (4 mins) 13-14 (3 mins)
+- 13 - 12 (4 mins) 13-14 (3 mins)
 - 14-16 (4 mins)
 - 15 - 14 (4 mins) 15 - 16 (3 mins)
 1. Quel est le plus court chemin de 1 (compagnie de taxi) vers 16 (aéroport) ?
